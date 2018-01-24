@@ -2,6 +2,13 @@
 Mimic the memory cache of the Redis API
 
 
+##  fast start
+
+```
+npm i fastify-memorycache --save
+
+```
+
 
 ###  Implemented part
     
