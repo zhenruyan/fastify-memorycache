@@ -1,0 +1,27 @@
+{
+  "name": "fastify-memorycache",
+  "version": "1.0.0",
+  "description": "memory cache",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cache"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhenruyan/napi-cache"
+  },
+"bugs": {
+    "url": "https://github.com/zhenruyan/napi-cache/issues"
+  },
+  "homepage": "http://freeidea.win",
+,
+  "author": "zhenruyan",
+  "license": "WTFPL",
+  "dependencies": {
+    "fastify-plugin": "^0.2.1",
+    "nedis-cache": "^1.0.2"
+  }
+}
