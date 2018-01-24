@@ -11,10 +11,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/zhenruyan/napi-cache"
+    "url": "https://github.com/zhenruyan/fastify-memorycache"
   },
 "bugs": {
-    "url": "https://github.com/zhenruyan/napi-cache/issues"
+    "url": "https://github.com/zhenruyan/fastify-memorycache/issues"
   },
   "homepage": "http://freeidea.win",
 ,
